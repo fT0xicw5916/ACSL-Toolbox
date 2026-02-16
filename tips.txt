@@ -1,0 +1,99 @@
+# Computer Number Systems
+
+To decimal: int("1010", <from_base>)
+To binary: bin(123)[2:]
+To octal: oct(123)[2:]
+To hexadecimal: hex(123)[2:]
+
+===
+
+# Recursive Functions
+
+Use Python!!!
+sympy.isprime() for prime numbers
+
+===
+
+# What Does This Program Do?
+
+Use Python!!!
+
+/ is real division, not integer division
+
+int() takes floor
+
+for loop is inclusive on both ends
+
+Arrays: A(5) for single-dimensional arrays and A(2, 3) for two-dimensional arrays
+Starts at index 0 (Zero-based index)
+Problems may start at 1
+Size usually specified in problem statement
+
+Strings: zero-based index
+len(A) is same as Python
+Use [] for slicing
+S[:3] take first 3
+S[4:] take last 4
+S[2:6] take from index 2 to index 6 inclusive
+
+===
+
+# Prefix/Infix/Postfix Notation
+
+Conversion/Evaluation scripts if no custom operators
+Change input to a list if multiple digits for conversion scripts
+
+===
+
+# Bit-String Flicking
+
+Order of Precedence: NOT, SHIFT & CIRC, AND, XOR, OR
+
+===
+
+# LISP
+
+Interpreter: https://www.jdoodle.com/execute-clisp-online
+
+===
+
+# Boolean Algebra
+
+Order of Precedence: NOT, AND, XOR & XNOR, OR
+
+===
+
+# Data Structures
+
+Scripts for generating the images of min-heap, max-heap, binary search tree
+Depth: Actual depth - 1 since the depth starts at 0
+External node: A place where a new node could be attached
+Internal path: Sum of the depths of all nodes
+External path: Sum of the depths of all external nodes
+
+===
+
+# FSAs and Regular Expressions
+
+Online: https://regex101.com/
+Or use Python re library, template script exists (regex.py)
+
+===
+
+# Graph Theory
+
+For adjacency matrices, use numpy (np.array(), np.dot())
+For finding number of cycles, cycles.py
+
+===
+
+# Digital Electronics
+
+Same as boolean algebra
+
+===
+
+# Assembly Language
+
+GitHub repo: https://github.com/DavidGoldman/ACSLAssembly, I'm currently working on improvements at https://github.com/fT0xicw5916/ACSLAssembly (It is already good enough tho)
+Interpreter: java aal.Driver
