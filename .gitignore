@@ -227,5 +227,6 @@ __marimo__/
 *.vsix
 
 bst
+max_heap
 *.png
 .vscode/
