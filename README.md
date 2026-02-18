@@ -12,4 +12,5 @@ python -m pip install -r requirements.txt
 * `eval_post.py`: Evaluates a postfix expression, assuming that there are no custom operators.
 * `eval_pre.py`: Evaluates a prefix expression, assuming that there are no custom operators.
 * `max_heap.py`: Generates a max heap from given command line input.
+* `min_heap.py`: Generates a min heap from given command line input.
 * `tips.txt`: Some handy python/algo tips you should be aware of. Basically a summary of the official [ACSL Wiki](https://www.acsl.org/get-started/study-materials).
