@@ -16,5 +16,6 @@ python -m pip install -r requirements.txt
 * `max_heap.py`: Generates a max heap from given command line input.
 * `min_heap.py`: Generates a min heap from given command line input.
 * `post2in.py`: Converts postfix notation to infix notation.
+* `pre2in.py`: Converts prefix notation to infix notation.
 * `regex.py`: Checks for regex matches.
 * `tips.txt`: Some handy python/algo tips you should be aware of. Basically a summary of the official [ACSL Wiki](https://www.acsl.org/get-started/study-materials).
