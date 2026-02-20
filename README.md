@@ -11,6 +11,7 @@ python -m pip install -r requirements.txt
 * `bst.py`: Generate binary search trees (BSTs) based on input keys from command line.
 * `eval_post.py`: Evaluates a postfix expression, assuming that there are no custom operators.
 * `eval_pre.py`: Evaluates a prefix expression, assuming that there are no custom operators.
+* `in2post.py`: Converts infix notation to postfix notation.
 * `max_heap.py`: Generates a max heap from given command line input.
 * `min_heap.py`: Generates a min heap from given command line input.
 * `regex.py`: Checks for regex matches.
