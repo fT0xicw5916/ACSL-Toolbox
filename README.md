@@ -9,6 +9,7 @@ python -m pip install -r requirements.txt
 
 ## Catalog
 * `bst.py`: Generate binary search trees (BSTs) based on input keys from command line.
+* `cycles.py`: Find and normalize simple cycles in directed or undirected graphs.
 * `eval_post.py`: Evaluates a postfix expression, assuming that there are no custom operators.
 * `eval_pre.py`: Evaluates a prefix expression, assuming that there are no custom operators.
 * `in2post.py`: Converts infix notation to postfix notation.
